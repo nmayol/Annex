@@ -1,4 +1,6 @@
 numpy
 matplotlib
 netCDF4
+PROJ4
+geos
 mpl_toolkits.basemap
