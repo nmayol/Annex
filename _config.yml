@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 name: run-notebook
 uses: yaananth/run-notebook@v1
 
