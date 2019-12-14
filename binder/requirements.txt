@@ -2,5 +2,5 @@ numpy
 matplotlib
 netCDF4
 Geos
-proj 0.1.0
+pip install proj
 
