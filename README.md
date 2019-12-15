@@ -1,4 +1,5 @@
-# 1.Introducció a la construcció de gràfics i mapes
+# Codi creat durant la part pràctica
+## Anàlisi de les dades de reanàlisi
 Primers exercicis de construcció de mapes i gràfics. A continuació es mostra el codi creat i utilitzat per dur a terme la següent pràctica.
 
 ### Introducció a la creació de gràfics
