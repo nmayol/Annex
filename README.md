@@ -755,7 +755,7 @@ fig.savefig(data_path+'fig_24a', bbox_inches='tight',dpi=400)
 
 
 ![png](reanalisis_files/reanalisis_60_1.png)
-
+#
 ## Anàlisi de dades històriques i d'escenaris
 En el següent apartat es treballarà en la construcció de mapes i gràfics a partir de dades històriques (1850-2014) i dades de tres escenaris diferents SSP1 (o 126), SSP 2 (o 245) i SSP 3 (o 585). 
 
